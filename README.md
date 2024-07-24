@@ -5,3 +5,4 @@ This project focuses on generating captions for images using deep learning techn
 - **LSTM (Long Short-Term Memory)**: A type of Recurrent Neural Network (RNN) utilized for generating captions. LSTMs are effective for sequence prediction problems due to their ability to learn long-term dependencies.
 - **Encoder-Decoder Architecture**: Combines the CNN (VGG16) for encoding images into a fixed representation and the RNN (LSTM) for decoding this representation into a sequence of words (captions).
 
+![image](https://github.com/user-attachments/assets/94c46f0d-902f-4841-9d20-76fc443b74cb)
